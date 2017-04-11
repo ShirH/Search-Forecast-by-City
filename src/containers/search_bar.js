@@ -44,9 +44,9 @@ class SearchBar extends Component {
     }
 }
 
-function mapDispatchToProps(dispatch) {
+function mapDispatchToProps(dispatch) { //adding actions to thr props
     return bindActionCreators({fetchWeather}, dispatch);
 }
 
 
-export default connect(null, mapDispatchToProps)(SearchBar);
+export default connect(null, mapDispatchToProps)(SearchBar); //connect to store

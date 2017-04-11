@@ -41,7 +41,7 @@ class WeatherList extends Component {
 
 }
 
-function mapStateToProps({weather}) {
+function mapStateToProps({weather}) { //adding states to props
     return {weather};
 }
 

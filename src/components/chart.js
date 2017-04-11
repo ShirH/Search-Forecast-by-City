@@ -1,6 +1,6 @@
 import React from 'react';
 import _ from 'lodash'
-import {Sparklines, SparklinesLine, SparklinesReferenceLine} from 'react-sparklines';
+import {Sparklines, SparklinesLine, SparklinesReferenceLine} from 'react-sparklines'; //diagram library
 
 export default (props) =>{
 
