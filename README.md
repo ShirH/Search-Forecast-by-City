@@ -8,7 +8,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 	> npm install
 	> npm start
 ```
-open http://localhost:8090/
+open http://localhost:8080/
 
 
 ####Screenshot####
